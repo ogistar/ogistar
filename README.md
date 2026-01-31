@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yogie Setiawan Nugraha
+Founder at **Stara Solution** — Backend & DevOps (Django/Python, Laravel/PHP, Oracle/PLSQL)
 
-<!--
-**ogistar/ogistar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Fokus
+- Enterprise apps & internal tools
+- Healthcare systems
+- CI/CD & deployment automation
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+Django • Python • Laravel • PHP • Oracle PL/SQL • Docker • GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlight Projects
+- (Isi dengan link repo terbaikmu)
+- (Satu baris deskripsi tiap repo)
+
+## 🌐 Links
+- Website: https://starasolution.com
