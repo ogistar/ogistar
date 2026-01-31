@@ -3,7 +3,8 @@ Founder at **Stara Solution** — Backend & DevOps (Django/Python, Laravel/PHP, 
 
 ## 🚀 Fokus
 - Enterprise apps & internal tools
-- Healthcare systems
+- All UMKM systems
+- AI Assistant
 - CI/CD & deployment automation
 
 ## 🧰 Tech Stack
